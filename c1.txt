@@ -2,3 +2,5 @@ Head : It is the currently checked out commit.
 
 Detaching Head means checking out to commit.
 Rather than Branch.
+
+git reset: It resets the changes.
