@@ -3,6 +3,10 @@ Head : It is the currently checked out commit.
 Detaching Head means checking out to commit.
 Rather than Branch.
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> bugFix
 git rebase <Branch name>: we rebase the commits from the <Branch name> to the current branch.
 
 git reset HEAD~<number>: It resets the changes to the specified commit.
@@ -14,3 +18,7 @@ git revert HEAD
 git rebase -i HEAD~<range of commits> : 
     1. dd = cut, p = paste for reordering.
     2. latest commit is in the last place
+<<<<<<< HEAD
+=======
+
+>>>>>>> bugFix
