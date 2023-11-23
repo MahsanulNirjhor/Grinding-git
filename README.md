@@ -13,4 +13,3 @@ This folder is dedicated to enhancing your Git skills and exploring various Git 
 * **Enhance your Git troubleshooting skills:** Develop the ability to identify and resolve common Git issues, such as merge conflicts, lost commits, and remote repository synchronization problems.
 
 Through hands-on practice and experimentation within this folder, you will solidify your Git expertise and become a more proficient Git user.
-I will update this file time to time.
